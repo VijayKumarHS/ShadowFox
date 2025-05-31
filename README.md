@@ -4,7 +4,7 @@ A curated collection of Java-based console applications showcasing a variety of 
 
 ---
 
-## 🔢 1. Advanced Console Calculator
+##  1. Advanced Console Calculator
 
 A comprehensive console-based calculator developed in Java. It includes standard arithmetic operations, scientific calculations, and unit conversions—ideal for quick and versatile computations.
 
@@ -15,7 +15,7 @@ A comprehensive console-based calculator developed in Java. It includes standard
 
 ---
 
-## 📇 2. Basic Contact Organizer
+##  2. Basic Contact Organizer
 
 A lightweight command-line contact management application. It uses an `ArrayList` to store contacts and supports essential CRUD operations.
 
@@ -27,7 +27,7 @@ A lightweight command-line contact management application. It uses an `ArrayList
 
 ---
 
-## 🏦 3. Banking System with JUnit Testing
+##  3. Banking System with JUnit Testing
 
 An extended bank account management system with integrated JUnit tests to ensure reliable performance of key banking functions.
 
@@ -46,7 +46,7 @@ An extended bank account management system with integrated JUnit tests to ensure
 
 ---
 
-## 📚 4. Library Management System with SQLite
+##  4. Library Management System with SQLite
 
 A robust library system built in Java with SQLite database support for data persistence. It includes both user and book management, along with a recommendation system.
 
@@ -58,5 +58,17 @@ A robust library system built in Java with SQLite database support for data pers
 - Personalized book suggestions based on user interest
 
 ---
+##  5. Banking Application REST API using Spring Boot
+
+A RESTful Banking Application built with **Spring Boot** and **Spring Data JPA**, simulating real-world banking operations.
+
+### Description
+This application allows clients to create and manage bank accounts through REST API endpoints. Data is persisted using an embedded **Apache Derby** database.
+
+### Features
+- Create, update, and delete bank accounts
+- Deposit and withdraw with balance checks
+- Check balance and view transaction history
+- Centralized exception handling and error messages
 
 
